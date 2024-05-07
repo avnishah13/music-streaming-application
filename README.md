@@ -1,2 +1,3 @@
-# music-streaming-application
-A dynamic music streaming platform with personalized playlists, seamless navigation, and robust content curation, and analytics tools.
+Harmonix is an innovative web-based music streaming application tailored for professional use, aiming to streamline music discovery, streaming, and management processes. With a focus on efficiency and functionality, Harmonix provides administrators with powerful tools to manage music content, user accounts, and system settings seamlessly. Leveraging a sophisticated tech stack including HTML, CSS, JavaScript, and Python with Flask framework, Harmonix ensures robust performance and reliability.
+
+Designed with the needs of creators and administrators in mind, Harmonix offers features such as artist registration, dashboard access to performance metrics, content moderation tools, and platform-wide analytics. This comprehensive suite of functionalities empowers professionals to manage artist profiles, music submissions, and platform operations with ease, making Harmonix a go-to solution for streamlined music management in professional settings.
