@@ -1,0 +1,26 @@
+form, input, h1, td, tr, th, h5, table, .card-header{
+  text-align: center;
+  vertical-align: middle;
+}
+
+.dropright .dropdown-menu{
+left:auto!important;
+right:0!important;
+}
+
+.column {
+  float: left;
+  width: 15%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+a {
+  cursor: pointer;
+}

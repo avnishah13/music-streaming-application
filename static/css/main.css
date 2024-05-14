@@ -1,0 +1,39 @@
+form, input, h1, td, tr, th, h5, table, .card-header, p, option{
+      text-align: center;
+      vertical-align: middle;
+}
+
+select  {
+  text-indent: 45px;
+}
+
+.dropright .dropdown-menu{
+      left:auto!important;
+      right:0!important;
+}
+
+#button {
+      display:block;
+      height: 150px;
+      width: 150px;
+      border-radius: 50%;
+}
+
+.box{
+      padding-top: 90px;
+      padding-left: 400px;
+      padding-right: 400px;
+}
+
+.button{
+      padding-left: 675px;
+}
+
+.btn {
+      display: inline-block; /* or display: block; */
+      margin: 0 auto; /* Set left and right margins to auto */
+}
+
+.container {
+  text-align: center; /* Center align the content */
+}

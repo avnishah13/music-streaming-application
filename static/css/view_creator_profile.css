@@ -1,0 +1,26 @@
+input, h1, td, tr, th, h5, table, .card-header{
+  text-align: center;
+  vertical-align: middle;
+}
+
+.dropright .dropdown-menu{
+left:auto!important;
+right:0!important;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  background-image:url("{{creator_profile}}"); 
+  background-size:cover;
+}
+
+#button:hover{
+  opacity: 0.2;
+}
+
+.parent{
+  padding-left: 100px;
+  display: flex;
+}

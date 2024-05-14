@@ -1,0 +1,14 @@
+Flask==2.3.3
+Flask-Cors==4.0.0
+Flask-SQLAlchemy==3.0.5
+Flask-RESTful==0.3.10
+Flask-Hashing==1.1
+Flask-Security-Too==5.3.0
+PyJWT==2.8.0
+phonenumbers==8.13.32
+redis==5.0.3
+pandas==2.2.1
+matplotlib==3.8.4
+requests==2.31.0
+celery==5.3.6
+Flask-Mail==0.9.1
